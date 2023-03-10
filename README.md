@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <b>Climate Change is not a joke</b>
 ## <b>CAPP 122 Course Project | Winter 2023</b>
 ### <b>Team Members: Nadir Khan, Bob Surridge, Rob Mccormick, Kayecee Palisoc</b>
@@ -104,3 +105,7 @@ To try cleaning fucntions json to csv:
 
 
 
+=======
+# Climate-Change-Financing-After-the-Paris-Agreement-Project
+Please go to the master branch to view the project
+>>>>>>> origin/main
